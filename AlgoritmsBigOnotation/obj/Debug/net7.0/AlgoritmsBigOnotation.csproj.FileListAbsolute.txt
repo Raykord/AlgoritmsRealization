@@ -1,0 +1,14 @@
+C:\Users\Ray\Documents\C#\Projects\AlgoritmsBigOnotation\AlgoritmsBigOnotation\bin\Debug\net7.0\AlgoritmsBigOnotation.exe
+C:\Users\Ray\Documents\C#\Projects\AlgoritmsBigOnotation\AlgoritmsBigOnotation\bin\Debug\net7.0\AlgoritmsBigOnotation.deps.json
+C:\Users\Ray\Documents\C#\Projects\AlgoritmsBigOnotation\AlgoritmsBigOnotation\bin\Debug\net7.0\AlgoritmsBigOnotation.runtimeconfig.json
+C:\Users\Ray\Documents\C#\Projects\AlgoritmsBigOnotation\AlgoritmsBigOnotation\bin\Debug\net7.0\AlgoritmsBigOnotation.dll
+C:\Users\Ray\Documents\C#\Projects\AlgoritmsBigOnotation\AlgoritmsBigOnotation\bin\Debug\net7.0\AlgoritmsBigOnotation.pdb
+C:\Users\Ray\Documents\C#\Projects\AlgoritmsBigOnotation\AlgoritmsBigOnotation\obj\Debug\net7.0\AlgoritmsBigOnotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ray\Documents\C#\Projects\AlgoritmsBigOnotation\AlgoritmsBigOnotation\obj\Debug\net7.0\AlgoritmsBigOnotation.AssemblyInfoInputs.cache
+C:\Users\Ray\Documents\C#\Projects\AlgoritmsBigOnotation\AlgoritmsBigOnotation\obj\Debug\net7.0\AlgoritmsBigOnotation.AssemblyInfo.cs
+C:\Users\Ray\Documents\C#\Projects\AlgoritmsBigOnotation\AlgoritmsBigOnotation\obj\Debug\net7.0\AlgoritmsBigOnotation.csproj.CoreCompileInputs.cache
+C:\Users\Ray\Documents\C#\Projects\AlgoritmsBigOnotation\AlgoritmsBigOnotation\obj\Debug\net7.0\AlgoritmsBigOnotation.dll
+C:\Users\Ray\Documents\C#\Projects\AlgoritmsBigOnotation\AlgoritmsBigOnotation\obj\Debug\net7.0\refint\AlgoritmsBigOnotation.dll
+C:\Users\Ray\Documents\C#\Projects\AlgoritmsBigOnotation\AlgoritmsBigOnotation\obj\Debug\net7.0\AlgoritmsBigOnotation.pdb
+C:\Users\Ray\Documents\C#\Projects\AlgoritmsBigOnotation\AlgoritmsBigOnotation\obj\Debug\net7.0\AlgoritmsBigOnotation.genruntimeconfig.cache
+C:\Users\Ray\Documents\C#\Projects\AlgoritmsBigOnotation\AlgoritmsBigOnotation\obj\Debug\net7.0\ref\AlgoritmsBigOnotation.dll
